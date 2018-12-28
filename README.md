@@ -26,4 +26,8 @@ Add the following script imports to the bottom of your HTML page, just above clo
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
 <script type="text/javascript" src="js/player.js"></script>
-```
+```  
+Add your .mp3 files to the `audio` directory.  
+Modify the HTML list items `href` paths to your audio file names.  
+Modify the `My Desicription` text as needed for each of your audio files.  
+Add or remove the playist `li` List Items as needed for each of your Audio Files.  
